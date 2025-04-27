@@ -1,6 +1,6 @@
 public class Demo{
-    public static void main(String[]args)
+    public Static void main(String[]args)
     {
-        Sysyem.out.println("Hello java");
+        System.out.println("Hello java;");
     }
 }
